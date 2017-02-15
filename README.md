@@ -1,3 +1,8 @@
+Github Wiki emoji cheatsheet
+
+http://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+
 \People People
 \                                  
 bowtie: :bowtie:
